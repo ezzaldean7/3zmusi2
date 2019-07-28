@@ -1,6 +1,7 @@
+token=NDk4MDk4NjMyNDU3OTc3ODY3.XT23_w.3XQcjutYN319XSXxE31Gfl7Vc3E
 owner=470500980342128650
 prefix=33
 game=Type 33help
 stayinchannel=true
 songinstatus=false
-token=NDk4MDk4NjMyNDU3OTc3ODY3.XT23_w.3XQcjutYN319XSXxE31Gfl7Vc3E
+
